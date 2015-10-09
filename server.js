@@ -6,7 +6,7 @@ app.get('/', function(request, response){
 });
 
 app.get('/nickname', function(request, response){
-    response.send('Puneet');
+    response.send('witty-emu');
 });
 
 
